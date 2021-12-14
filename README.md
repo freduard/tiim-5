@@ -15,7 +15,7 @@ When a signal comes from the server, plays a predefined sound file.
 You can also send a signal to the server from the client.
 
 Keyboard: ```A, S, D, F, G, H, J, K, L, Z, X, C``` keys or  
-Click/touch: ```A, S, D, F, G, H, J, K, L, Z, X, C```` buttons on the screen
+Click/touch: ```A, S, D, F, G, H, J, K, L, Z, X, C``` buttons on the screen
 
 ## Visualisation
 Displays a simple visualization 
