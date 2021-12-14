@@ -27,3 +27,7 @@ https://drive.google.com/drive/folders/1GsKzjNp6p_WkLCfpiQ528QcHLn36-eG-
 ## Installation
 
 No extra steps needed, just run it in some http server. 
+
+
+FIGMA-
+https://www.figma.com/file/MS84o0iRUgXWLZkr4FUfv8/Tiim5?node-id=0%3A1
