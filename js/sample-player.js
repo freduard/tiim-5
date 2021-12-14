@@ -2,7 +2,7 @@ let online = true;
 
 // define sample files
 const files = [
-  "pack-1/0 - A.wav", "pack-1/1 - D.wav", "pack-1/2 - E.wav", "pack-1/3 - F Sharp.wav", "pack-1/4 - G.wav", "pack-1/5 - A.wav", "pack-1/6 - B.wav", "pack-1/7 - c.mp3", "pack-1/8 - d.mp3", "pack-1/9 - e.mp3", "pack-1/10 - f.mp3", "pack-1/11 - gsharp.mp3"
+  "pack-1/0 - A.wav", "pack-1/1 - D.wav", "pack-1/2 - E.wav", "pack-1/3 - F Sharp.wav", "pack-1/4 - G.wav", "pack-1/5 - A.wav", "pack-1/6 - B.wav", "pack-1/7 - C.mp3", "pack-1/8 - D.mp3", "pack-1/9 - E.mp3", "pack-1/10 - F.mp3", "pack-1/11 - GSharp.mp3"
 ];
 let sounds = Array(files.length);
 
