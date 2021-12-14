@@ -2,7 +2,7 @@ let online = true;
 
 // define sample files
 const files = [
-  "pack-1/c.mp3", "pack-1/d.mp3", "pack-1/e.mp3"
+  "pack-1/0 - A.wav", "pack-1/1 - D.wav", "pack-1/2 - E.wav", "pack-1/3 - F Sharp.wav", "pack-1/4 - G.wav", "pack-1/5 - A.wav", "pack-1/6 - B.wav"
 ];
 let sounds = Array(files.length);
 
@@ -29,6 +29,18 @@ document.addEventListener('keydown', (event) => {
       case 'd':
         socket.emit("send-data", {"sample": 2} );
         break;
+      case 'f':
+        socket.emit("send-data", {"sample": 3} );
+        break;
+      case 'g':
+        socket.emit("send-data", {"sample": 4} );
+        break;
+      case 'h':
+        socket.emit("send-data", {"sample": 5} );
+        break;
+      case 'j':
+        socket.emit("send-data", {"sample": 6} );
+        break;
     }
   } else { 
     // if connection to server is not established, we just play sounds locally
@@ -41,6 +53,18 @@ document.addEventListener('keydown', (event) => {
           break;
       case 'd':
           playSample(2);
+          break;
+      case 'f':
+          playSample(3);
+          break;
+      case 'g':
+          playSample(4);
+          break;
+      case 'h':
+          playSample(5);
+          break;
+      case 'j':
+          playSample(6);
           break;
     }
   }
@@ -71,7 +95,7 @@ function playSample(s){
 
 // preload music sample files and add them to sounds array
 function preloadSampleFiles() {
-  soundFormats('mp3', 'ogg');
+  soundFormats('mp3', 'ogg', 'wav');
   for (let i = 0; i < files.length; ++i){
     sounds[i] = loadSound("./samples/" + files[i]);
   }
