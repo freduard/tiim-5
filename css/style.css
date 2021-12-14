@@ -10,7 +10,7 @@ html, body {
 }
 body {
     position: relative;
-    background-color: black;
+    background-color: rgb(65, 17, 80);
     height: 100vh;
 }
 .keys{
@@ -25,7 +25,8 @@ body {
 
 .key{
     flex-grow: 1;
-    color: white;
+    color: black;
+    background-color: white;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -34,4 +35,24 @@ body {
     border-radius: 0.25ch;
     cursor: pointer;
     user-select: none;
+}
+.chords {
+    display: flex;
+    flex-direction: column;
+    justify-items: flex-end;
+}
+
+.chordkey{
+        color: black;
+        margin: 10px;
+        background-color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 8vw;
+        border-radius: 0.25ch;
+        border: 1px solid white;
+        cursor: pointer;
+        user-select: none;
+        width: 100px;
 }
