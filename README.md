@@ -10,7 +10,7 @@ Riivo Matt - huvitav
 
 Terje Volke - Sellest hetkest, kui devopsiga enam-vähem korda sai, hakkas tore ja edasi võiks juba teha küll
 
-Jana Kindlam - 
+Jana Kindlam - Väga huvitav, eriti alates p5 avastamisest.
 
 Ketrin Vanatoa - Huvitav oli, mulle endalegi üllatavalt meeldis see projekt.Tiim oli tore :)
 
@@ -27,7 +27,7 @@ Riivo Matt - Arduino, java
 
 Terje Volke - õppisin edasi oma meeskonnatöö oskusi ja oskamatusi tundma
 
-Jana Kindlam - 
+Jana Kindlam - p5.js - väga huvitav, loodan kindlasti edasi uurida; meeskonnatöö; natuke html ja css ning githubiga majandamine.
 
 Ketrin Vanatoa - Ma õppisin JavaScripti kasutama ja kindlasti tiimitööd paremini tegema.
 
@@ -44,7 +44,7 @@ Riivo Matt - jah
 
 Terje Volke - Jah
 
-Jana Kindlam - 
+Jana Kindlam - Jah
 
 Ketrin Vanatoa - Jah
 
