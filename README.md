@@ -14,6 +14,7 @@ Teha  virtuaalne instrument
 
 ### Lingid:
 FIGMA-https://www.figma.com/file/MS84o0iRUgXWLZkr4FUfv8/Tiim5?node-id=0%3A1
+
 2 Github - https://github.com/RiivoMatt/virtual-instrument-arduino
 
 ## Uses:
