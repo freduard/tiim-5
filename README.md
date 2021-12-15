@@ -7,33 +7,54 @@ Teha  virtuaalne instrument
 
 ### Tiimi heaolu:
 ## Mis te arvasite projektist?
-Riivo Matt - 
+Riivo Matt -
+
 Terje Volke - 
+
 Jana Kindlam - 
+
 Ketrin Vanatoa - 
+
 Fredy Ait - 
+
 Kaur Luha - 
+
 Gregor Tilts - 
+
 Nathan Raielo -
 
 ## Kas te õppisite midagi uut projekti tegemas?
 Riivo Matt - 
+
 Terje Volke - 
+
 Jana Kindlam - 
+
 Ketrin Vanatoa - 
+
 Fredy Ait - 
+
 Kaur Luha - 
+
 Gregor Tilts - 
+
 Nathan Raielo -
 
 ## Kas tahaksite samas tiimis uuesti osaleda?
 Riivo Matt - 
+
 Terje Volke - 
+
 Jana Kindlam - 
+
 Ketrin Vanatoa - 
+
 Fredy Ait - 
+
 Kaur Luha - 
+
 Gregor Tilts - 
+
 Nathan Raielo -
 
 ### Lingid:
