@@ -21,11 +21,6 @@ Uses:
 - [P5](https://p5js.org/) and [P5.sound](https://p5js.org/reference/#/libraries/p5.sound) for playing sounds and visualisation
 - [Socket.io](https://socket.io/) for communication between server and clients 
 
-## Listen
-Listens to Socket.io server (default http://localhost:8000, may be changed based on your server setup).
-
-When a signal comes from the server, plays a predefined sound file. 
-
 ## Play
 You can also send a signal to the server from the client.
 
