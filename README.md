@@ -1,6 +1,6 @@
 # virtual-instrument-client
 ### Tiimi liikmed:
-Riivo Matt,Terje Volke,Jana Kindlam,Ketrin Vanatoa,Fredy Ait,Kaur Luha,Gregor Tilts,Nathan Raielo.
+Riivo Matt, Terje Volke, Jana Kindlam, Ketrin Vanatoa, Fredy Ait, Kaur Luha, Gregor Tilts, Nathan Raielo.
 ### Eesmärk:
 Teha  virtuaalne instrument
 
@@ -8,7 +8,7 @@ Teha  virtuaalne instrument
 ## Mis te arvasite projektist?
 Riivo Matt -
 
-Terje Volke - 
+Terje Volke - Sellest hetkest, kui devopsiga enam-vähem korda sai, hakkas tore ja edasi võiks juba teha küll
 
 Jana Kindlam - 
 
@@ -25,7 +25,7 @@ Nathan Raielo - Ülesanne oli huvitav ja meeldiv.
 ## Kas te õppisite midagi uut projekti tegemas?
 Riivo Matt - 
 
-Terje Volke - 
+Terje Volke - õppisin edasi oma meeskonnatöö oskusi ja oskamatusi tundma
 
 Jana Kindlam - 
 
@@ -42,7 +42,7 @@ Nathan Raielo - Õppisin css-i paremini kasutama.
 ## Kas tahaksite samas tiimis uuesti osaleda?
 Riivo Matt - 
 
-Terje Volke - 
+Terje Volke - Jah
 
 Jana Kindlam - 
 
