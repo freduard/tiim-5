@@ -39,9 +39,6 @@ Gregor Tilts -Õppisi paremini tiimiga tööd teha.
 
 Nathan Raielo - Õppisin css-i paremini kasutama.
 
-Gregor Tilts - Oli huvitav midagi muud vaheldusegks teha.
-
-Nathan Raielo - Ülesanne oli huvitav ja meeldiv.
 
 ## Kas tahaksite samas tiimis uuesti osaleda?
 Riivo Matt - jah
