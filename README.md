@@ -12,7 +12,7 @@ Terje Volke -
 
 Jana Kindlam - 
 
-Ketrin Vanatoa - 
+Ketrin Vanatoa - Huvitav oli, mulle endalegi üllatavalt meeldis see projekt.Tiim oli tore :)
 
 Fredy Ait - 
 
@@ -29,7 +29,7 @@ Terje Volke -
 
 Jana Kindlam - 
 
-Ketrin Vanatoa - 
+Ketrin Vanatoa - Ma õppisin JavaScripti kasutama ja kindlasti tiimitööd paremini tegema.
 
 Fredy Ait - 
 
@@ -46,7 +46,7 @@ Terje Volke -
 
 Jana Kindlam - 
 
-Ketrin Vanatoa - 
+Ketrin Vanatoa - Jah
 
 Fredy Ait - 
 
