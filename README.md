@@ -17,6 +17,8 @@ FIGMA-https://www.figma.com/file/MS84o0iRUgXWLZkr4FUfv8/Tiim5?node-id=0%3A1
 
 2 Github - https://github.com/RiivoMatt/virtual-instrument-arduino
 
+3 Github - https://github.com/RiivoMatt/virtual-instrument-serial-proxy
+
 ## Uses:
 - [P5](https://p5js.org/) and [P5.sound](https://p5js.org/reference/#/libraries/p5.sound) for playing sounds and visualisation
 - [Socket.io](https://socket.io/) for communication between server and clients 
