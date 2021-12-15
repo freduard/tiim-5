@@ -1,60 +1,60 @@
 # virtual-instrument-client
 ### Tiimi liikmed:
-Riivo Matt, Terje Volke, Jana Kindlam, Ketrin Vanatoa, Fredy Ait, Kaur Luha, Gregor Tilts, Nathan Raielo.
+Riivo Matt,Terje Volke,Jana Kindlam,Ketrin Vanatoa,Fredy Ait,Kaur Luha,Gregor Tilts,Nathan Raielo.
 ### Eesmärk:
 Teha  virtuaalne instrument
 
 # Tiimi heaolu:
 ## Mis te arvasite projektist?
-Riivo Matt - huvitav
+Riivo Matt -
 
-Terje Volke - Sellest hetkest, kui devopsiga enam-vähem korda sai, hakkas tore ja edasi võiks juba teha küll
+Terje Volke - 
 
-Jana Kindlam - Väga huvitav, eriti alates p5 avastamisest.
+Jana Kindlam - 
 
-Ketrin Vanatoa - Huvitav oli, mulle endalegi üllatavalt meeldis see projekt.Tiim oli tore :)
+Ketrin Vanatoa - 
 
-Fredy Ait - Alguses veits ebakindel oli, aga kui asja käima sai siis läks sujuvamalt.
+Fredy Ait - 
 
 Kaur Luha - 
 
-Gregor Tilts - 
+Gregor Tilts - Oli huvitav midagi muud vaheldusegks teha.
 
-Nathan Raielo - Ülesanne oli huvitav ja meeldiv.
+Nathan Raielo -
 
 ## Kas te õppisite midagi uut projekti tegemas?
-Riivo Matt - Arduino, java
+Riivo Matt - 
 
-Terje Volke - õppisin edasi oma meeskonnatöö oskusi ja oskamatusi tundma
+Terje Volke - 
 
-Jana Kindlam - p5.js - väga huvitav, loodan kindlasti edasi uurida; meeskonnatöö; natuke html ja css ning githubiga majandamine.
+Jana Kindlam - 
 
-Ketrin Vanatoa - Ma õppisin JavaScripti kasutama ja kindlasti tiimitööd paremini tegema.
+Ketrin Vanatoa - 
 
-Fredy Ait - Õppisin JavaScripti.
+Fredy Ait - 
 
 Kaur Luha - 
 
-Gregor Tilts - 
+Gregor Tilts -Õppisin paremini tiimi tööd teha.
 
-Nathan Raielo - Õppisin css-i paremini kasutama.
+Nathan Raielo -
 
 ## Kas tahaksite samas tiimis uuesti osaleda?
-Riivo Matt - jah
+Riivo Matt - 
 
-Terje Volke - Jah
+Terje Volke - 
 
-Jana Kindlam - Jah
+Jana Kindlam - 
 
-Ketrin Vanatoa - Jah
+Ketrin Vanatoa - 
 
-Fredy Ait - Ei
+Fredy Ait - 
 
 Kaur Luha - 
 
-Gregor Tilts - 
+Gregor Tilts -Sooviks küll.
 
-Nathan Raielo - Võib küll
+Nathan Raielo -
 
 ## Lingid:
 FIGMA-https://www.figma.com/file/MS84o0iRUgXWLZkr4FUfv8/Tiim5?node-id=0%3A1
