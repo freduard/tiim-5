@@ -3,7 +3,6 @@
 Riivo Matt,Terje Volke,Jana Kindlam,Ketrin Vanatoa,Fredy Ait,Kaur Luha,Gregor Tilts,Nathan Raielo.
 ### Eesmärk:
 Teha  virtuaalne instrument
-### Töö:
 
 # Tiimi heaolu:
 ## Mis te arvasite projektist?
