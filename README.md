@@ -1,9 +1,9 @@
 # virtual-instrument-client
 ### Tiimi liikmed:
 Raivo Matt,Terje Volke,Jana Kindlam,Ketrin Vanatoa,Fredy Ait,Kaura Luha,Gregor Tilts,Nathana Raielo.
-### Eesmärk
+### Eesmärk:
 Teha  virtuaalne instrument
-### Töö
+### Töö:
 
 ### Tiimi heaolu:
 # Mis te arvasite projektist?
@@ -12,7 +12,7 @@ Teha  virtuaalne instrument
 
 # Kas tahaksite samas tiimis uuesti osaleda?
 
-### Lingid
+### Lingid:
 FIGMA-https://www.figma.com/file/MS84o0iRUgXWLZkr4FUfv8/Tiim5?node-id=0%3A1
 
 Simple multi-player instrument example. 
