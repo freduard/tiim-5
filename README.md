@@ -14,7 +14,7 @@ Jana Kindlam -
 
 Ketrin Vanatoa - Huvitav oli, mulle endalegi üllatavalt meeldis see projekt.Tiim oli tore :)
 
-Fredy Ait - 
+Fredy Ait - Alguses veits ebakindel oli, aga kui asja käima sai siis läks sujuvamalt.
 
 Kaur Luha - 
 
@@ -31,7 +31,7 @@ Jana Kindlam -
 
 Ketrin Vanatoa - Ma õppisin JavaScripti kasutama ja kindlasti tiimitööd paremini tegema.
 
-Fredy Ait - 
+Fredy Ait - Õppisin JavaScripti.
 
 Kaur Luha - 
 
@@ -48,7 +48,7 @@ Jana Kindlam -
 
 Ketrin Vanatoa - Jah
 
-Fredy Ait - 
+Fredy Ait - Ei
 
 Kaur Luha - 
 
