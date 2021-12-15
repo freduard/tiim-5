@@ -6,55 +6,59 @@ Teha  virtuaalne instrument
 
 # Tiimi heaolu:
 ## Mis te arvasite projektist?
-Riivo Matt -
+Riivo Matt - huvitav
 
-Terje Volke - 
+Terje Volke - Sellest hetkest, kui devopsiga enam-vähem korda sai, hakkas tore ja edasi võiks juba teha küll
 
-Jana Kindlam - 
+Jana Kindlam - Väga huvitav, eriti alates p5 avastamisest.
 
-Ketrin Vanatoa - 
+Ketrin Vanatoa - Huvitav oli, mulle endalegi üllatavalt meeldis see projekt.Tiim oli tore :)
 
-Fredy Ait - 
+Fredy Ait - Alguses veits ebakindel oli, aga kui asja käima sai siis läks sujuvamalt.
 
-Kaur Luha - 
+Kaur Luha -
+
+Gregor Tilts - Õppisin paremini tiimi tööd teha.
+
+Nathan Raielo - Ülesanne oli huvitav ja meeldiv.
+
+## Kas te õppisite midagi uut projekti tegemas?
+Riivo Matt - Arduino, java
+
+Terje Volke - õppisin edasi oma meeskonnatöö oskusi ja oskamatusi tundma
+
+Jana Kindlam - p5.js - väga huvitav, loodan kindlasti edasi uurida; meeskonnatöö; natuke html ja css ning githubiga majandamine.
+
+Ketrin Vanatoa - Ma õppisin JavaScripti kasutama ja kindlasti tiimitööd paremini tegema.
+
+Fredy Ait - Õppisin JavaScripti.
+
+Kaur Luha -
+
+Gregor Tilts -
+
+Nathan Raielo - Õppisin css-i paremini kasutama.
 
 Gregor Tilts - Oli huvitav midagi muud vaheldusegks teha.
 
-Nathan Raielo -
-
-## Kas te õppisite midagi uut projekti tegemas?
-Riivo Matt - 
-
-Terje Volke - 
-
-Jana Kindlam - 
-
-Ketrin Vanatoa - 
-
-Fredy Ait - 
-
-Kaur Luha - 
-
-Gregor Tilts -Õppisin paremini tiimi tööd teha.
-
-Nathan Raielo -
+Nathan Raielo - Ülesanne oli huvitav ja meeldiv.
 
 ## Kas tahaksite samas tiimis uuesti osaleda?
-Riivo Matt - 
+Riivo Matt - jah
 
-Terje Volke - 
+Terje Volke - Jah
 
-Jana Kindlam - 
+Jana Kindlam - Jah
 
-Ketrin Vanatoa - 
+Ketrin Vanatoa - Jah
 
-Fredy Ait - 
+Fredy Ait - Ei
 
-Kaur Luha - 
+Kaur Luha -
 
-Gregor Tilts -Sooviks küll.
+Gregor Tilts - Jah
 
-Nathan Raielo -
+Nathan Raielo - Võib küll
 
 ## Lingid:
 FIGMA-https://www.figma.com/file/MS84o0iRUgXWLZkr4FUfv8/Tiim5?node-id=0%3A1
@@ -79,3 +83,5 @@ Displays a simple visualization
 ## Sample sounds from Ian
 
 https://drive.google.com/drive/folders/1GsKzjNp6p_WkLCfpiQ528QcHLn36-eG-
+
+
