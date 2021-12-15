@@ -6,11 +6,11 @@ Teha  virtuaalne instrument
 ### Töö:
 
 ### Tiimi heaolu:
-# Mis te arvasite projektist?
+## Mis te arvasite projektist?
 
-# Kas te õppisite midagi uut projekti tegemas?
+## Kas te õppisite midagi uut projekti tegemas?
 
-# Kas tahaksite samas tiimis uuesti osaleda?
+## Kas tahaksite samas tiimis uuesti osaleda?
 
 ### Lingid:
 FIGMA-https://www.figma.com/file/MS84o0iRUgXWLZkr4FUfv8/Tiim5?node-id=0%3A1
