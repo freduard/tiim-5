@@ -2,7 +2,7 @@ let online = true;
 
 // define sample files
 const files = [
-  "pack-1/0 - A.wav", "pack-1/1 - D.wav", "pack-1/2 - E.wav", "pack-1/3 - F Sharp.wav", "pack-1/4 - G.wav", "pack-1/5 - A.wav", "pack-1/6 - B.wav", "pack-1/A7.wav", "pack-1/D.wav", "pack-1/E Minor.wav", "pack-1/G.wav"
+  "pack-1/0 - A.wav", "pack-1/1 - D.wav", "pack-1/2 - E.wav", "pack-1/3 - F Sharp.wav", "pack-1/4 - G.wav", "pack-1/5 - A.wav", "pack-1/6 - B.wav", "pack-1/A7.wav", "pack-1/8 - D.wav", "pack-1/E Minor.wav", "pack-1/G.wav"
 ];
 let sounds = Array(files.length);
 
@@ -146,9 +146,9 @@ function setup() {
 
 
 // visualization
-function draw() {
-  blendMode(BLEND);
-  background(10,5,20);
+/* function draw() {
+   blendMode(BLEND);
+  background(10,5,120);
   blendMode(LIGHTEST);
   noFill();
 
@@ -159,6 +159,33 @@ function draw() {
   stroke('hsla(0, 80%, 100%, 0.5)');
   strokeWeight(size*0.05);
   circle(windowWidth*0.5, windowHeight*0.4, size);
+} */
+
+
+// Our visualization
+function draw() {
+	background(200, 0, 0, 30)
+	stroke(200)
+	noFill()
+  //fill(200, 0, 0, 60)
+	
+	translate(width / 2, height / 2)
+	
+	var wave = fft.waveform()
+	
+	for (var t = -1; t <= 1; t += 2) {
+		beginShape()
+		for (var i = 0; i <= 180; i++) {
+			var index = floor(map(i, 0, 180, 0, wave.length - 1))
+			
+			var r = map(wave[index], -1, 1, 150, 350)
+			
+			var x = r * sin(i) * t
+			var y = r * cos(i)
+			vertex(x, y)
+		}
+		endShape()
+	}
 }
 
 

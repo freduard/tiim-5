@@ -13,9 +13,6 @@ body {
     height: 100vh;
 }
 .keys{
-    position: absolute;
-    bottom:5vh;
-    left:0;
     width: 100%;
     display: flex;
     gap: 2vw;
@@ -35,11 +32,6 @@ body {
     cursor: pointer;
     user-select: none;
 }
-.chords {
-    display: flex;
-    flex-direction: column;
-    justify-items: flex-end;
-}
 
 .chordkey{
         color: black;
@@ -48,10 +40,20 @@ body {
         display: flex;
         justify-content: center;
         align-items: center;
-        font-size: 6vw;
+        font-size: 4vw;
         border-radius: 0.25ch;
         border: 1px solid white;
         cursor: pointer;
         user-select: none;
         width: 100px;
+}
+
+.chords{
+    justify-content: center;
+    bottom:1vh;
+    left:0;
+    width: 100%;
+    display: flex;
+    gap: 2vw;
+    padding: 2vw;
 }
