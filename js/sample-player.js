@@ -134,7 +134,7 @@ function preloadSampleFiles() {
 
 
 function setup() {
-  createCanvas(windowWidth, windowHeight*0.8)
+  createCanvas(windowWidth, windowHeight*0.62)
 
   // https://p5js.org/reference/#/p5.FFT
   fft = new p5.FFT();
@@ -142,24 +142,6 @@ function setup() {
 
   preloadSampleFiles();
 }
-
-
-
-// visualization
-/* function draw() {
-   blendMode(BLEND);
-  background(10,5,120);
-  blendMode(LIGHTEST);
-  noFill();
-
-  spectrum = fft.analyze();
-  energy = fft.getEnergy(100, 255);
-  size = map(energy, 0, 255, energy*0.2, windowHeight*0.8);
-
-  stroke('hsla(0, 80%, 100%, 0.5)');
-  strokeWeight(size*0.05);
-  circle(windowWidth*0.5, windowHeight*0.4, size);
-} */
 
 
 // Our visualization
@@ -178,7 +160,7 @@ function draw() {
 		for (var i = 0; i <= 180; i++) {
 			var index = floor(map(i, 0, 180, 0, wave.length - 1))
 			
-			var r = map(wave[index], -1, 1, 150, 350)
+			var r = map(wave[index], -1, 1, 120, 350)
 			
 			var x = r * sin(i) * t
 			var y = r * cos(i)
