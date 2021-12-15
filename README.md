@@ -6,7 +6,7 @@ Teha  virtuaalne instrument
 
 # Tiimi heaolu:
 ## Mis te arvasite projektist?
-Riivo Matt -
+Riivo Matt - huvitav
 
 Terje Volke - Sellest hetkest, kui devopsiga enam-vähem korda sai, hakkas tore ja edasi võiks juba teha küll
 
@@ -23,7 +23,7 @@ Gregor Tilts -
 Nathan Raielo - Ülesanne oli huvitav ja meeldiv.
 
 ## Kas te õppisite midagi uut projekti tegemas?
-Riivo Matt - 
+Riivo Matt - Arduino, java
 
 Terje Volke - õppisin edasi oma meeskonnatöö oskusi ja oskamatusi tundma
 
@@ -40,7 +40,7 @@ Gregor Tilts -
 Nathan Raielo - Õppisin css-i paremini kasutama.
 
 ## Kas tahaksite samas tiimis uuesti osaleda?
-Riivo Matt - 
+Riivo Matt - jah
 
 Terje Volke - Jah
 
