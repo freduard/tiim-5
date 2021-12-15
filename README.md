@@ -15,9 +15,7 @@ Teha  virtuaalne instrument
 ### Lingid:
 FIGMA-https://www.figma.com/file/MS84o0iRUgXWLZkr4FUfv8/Tiim5?node-id=0%3A1
 
-Simple multi-player instrument example. 
-
-Uses:
+## Uses:
 - [P5](https://p5js.org/) and [P5.sound](https://p5js.org/reference/#/libraries/p5.sound) for playing sounds and visualisation
 - [Socket.io](https://socket.io/) for communication between server and clients 
 
