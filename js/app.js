@@ -8,9 +8,9 @@ socket.on("connect", () => {
 });
 
 socket.on('send-data', res => {
-  recieveData(res); 
+  recieveData(res);
 });
 
 socket.on("disconnect", () => {
-  console.log("Client disconnected from" + socket.id); 
+  console.log("Client disconnected from" + socket.id);
 });1
