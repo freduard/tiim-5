@@ -18,7 +18,7 @@ Fredy Ait - Alguses veits ebakindel oli, aga kui asja käima sai siis läks suju
 
 Kaur Luha -
 
-Gregor Tilts - Õppisin paremini tiimi tööd teha.
+Gregor Tilts - Projekt oli huvitav.
 
 Nathan Raielo - Ülesanne oli huvitav ja meeldiv.
 
@@ -35,7 +35,7 @@ Fredy Ait - Õppisin JavaScripti.
 
 Kaur Luha -
 
-Gregor Tilts -
+Gregor Tilts -Õppisi paremini tiimiga tööd teha.
 
 Nathan Raielo - Õppisin css-i paremini kasutama.
 
