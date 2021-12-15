@@ -20,7 +20,7 @@ Kaur Luha -
 
 Gregor Tilts - 
 
-Nathan Raielo -
+Nathan Raielo - Ülesanne oli huvitav ja meeldiv.
 
 ## Kas te õppisite midagi uut projekti tegemas?
 Riivo Matt - 
@@ -37,7 +37,7 @@ Kaur Luha -
 
 Gregor Tilts - 
 
-Nathan Raielo -
+Nathan Raielo - Õppisin css-i paremini kasutama.
 
 ## Kas tahaksite samas tiimis uuesti osaleda?
 Riivo Matt - 
@@ -54,7 +54,7 @@ Kaur Luha -
 
 Gregor Tilts - 
 
-Nathan Raielo -
+Nathan Raielo - Võib küll
 
 ## Lingid:
 FIGMA-https://www.figma.com/file/MS84o0iRUgXWLZkr4FUfv8/Tiim5?node-id=0%3A1
