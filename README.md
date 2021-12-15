@@ -1,4 +1,19 @@
 # virtual-instrument-client
+Tiimi liikmed
+Raivo Matt,Terje Volke,Jana Kindlam,Ketrin Vanatoa,Fredy Ait,Kaura Luha,Gregor Tilts,Nathana Raielo.
+Eesmärk
+Teha  virtuaalne instrument
+Töö
+
+Tiimi heaolu:
+Mis te arvasite projektist?
+
+Kas te õppisite midagi uut projekti tegemas?
+
+Kas tahaksite samas tiimis uuesti osaleda?
+
+Lingid
+FIGMA-https://www.figma.com/file/MS84o0iRUgXWLZkr4FUfv8/Tiim5?node-id=0%3A1
 
 Simple multi-player instrument example. 
 
@@ -24,10 +39,9 @@ Displays a simple visualization
 
 https://drive.google.com/drive/folders/1GsKzjNp6p_WkLCfpiQ528QcHLn36-eG-
 
-## Installation
 
-No extra steps needed, just run it in some http server. 
+ 
 
 
 FIGMA-
-https://www.figma.com/file/MS84o0iRUgXWLZkr4FUfv8/Tiim5?node-id=0%3A1
+
