@@ -1,6 +1,6 @@
 # virtual-instrument-client
 ### Tiimi liikmed:
-Raivo Matt,Terje Volke,Jana Kindlam,Ketrin Vanatoa,Fredy Ait,Kaura Luha,Gregor Tilts,Nathana Raielo.
+Riivo Matt,Terje Volke,Jana Kindlam,Ketrin Vanatoa,Fredy Ait,Kaur Luha,Gregor Tilts,Nathan Raielo.
 ### Eesmärk:
 Teha  virtuaalne instrument
 ### Töö:
